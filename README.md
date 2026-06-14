@@ -1,2 +1,2 @@
 # Games
-These are some project
+These are some project for personal practice
