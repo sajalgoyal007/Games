@@ -1,3 +1,4 @@
 # Games
-These are some project for personal practice
+
+## These are some project for personal practice
 ---
